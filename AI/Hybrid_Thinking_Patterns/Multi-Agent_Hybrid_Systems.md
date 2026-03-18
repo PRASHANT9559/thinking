@@ -1,0 +1,19 @@
+## Section 3: Multi-Agent Hybrid Systems (Collaboration + Cognition)
+
+| Hybrid Thinking Pattern | Combined Patterns | Where It Is Used | Description |
+|-------------------------|-------------------|------------------|-------------|
+| **Reflective Multi-Agent Debate (RMAD)** | Multi-Agent Orchestration + Debate & Critique + Reflection | Truth-seeking committees, peer review simulation | Agents debate positions while individually reflecting on their own arguments, leading to higher quality discourse |
+| **Swarm Consensus with Verification (SCV)** | Swarm Intelligence + Chain of Verification | Distributed sensing, crowd intelligence | Swarm agents reach consensus through local interactions, with verification steps ensuring collective accuracy |
+| **Hierarchical Reflective Teams (HRT)** | Hierarchical Agent Pattern + Reflection | Enterprise case management, audit teams | Manager reflects on team performance while workers reflect on task execution, enabling double-loop learning |
+| **Adversarial Reflection Training (ART)** | Adversarial Multi-Agent + Reflection | Red team/blue team security, robustness testing | Attacking and defending agents reflect on each other's strategies, co-evolving more sophisticated approaches |
+| **Role-Playing with Metacognition (RPM)** | Role-Playing Agents + Metacognition | Creative writing teams, scenario planning | Agents adopt personas while monitoring their own reasoning processes, adjusting character consistency and logic |
+| **Market-Based Consensus (MBC)** | Market-Based Reasoning + Consensus Building | Resource allocation, prediction markets | Economic mechanisms drive agents toward consensus while individual reflection prevents market manipulation |
+| **Specialist-Generalist Reflection (SGR)** | Specialist-Generalist Teams + Reflection | Medical diagnosis teams, legal research | Specialists reflect on domain-specific details while generalists reflect on cross-domain integration |
+| **Recursive Debate Amplification (RDA)** | Recursive Agent Networks + Debate & Critique | Constitutional AI, value alignment | Debates can spawn sub-debates on specific points, with recursive reflection ensuring thorough analysis |
+| **Ensemble with Self-Consistency (ESC)** | Ensemble Reasoning + Self-Consistency with CoT | High-stakes predictions, critical infrastructure | Multiple reasoning paths from different agents are checked for internal consistency before ensemble voting |
+| **Multi-Agent Analogical Transfer (MAAT)** | Multi-Agent Orchestration + Analogical Reasoning | Cross-domain innovation, interdisciplinary research | Different agents apply analogies from their expertise domains, then combine insights for novel solutions |
+| **Collaborative Counterfactual Planning (CCP)** | Peer-to-Peer Collaboration + Counterfactual Reasoning | Risk management, disaster preparedness | Agents collaboratively explore "what-if" scenarios, combining perspectives to identify blind spots |
+| **Reflective Swarm Optimization (RSO)** | Swarm Intelligence + Reflection | Optimization problems, design space exploration | Swarm particles reflect on their search history, adjusting exploration vs exploitation strategies |
+| **Constitutional Multi-Agent (CMA)** | Constitutional AI + Multi-Agent Orchestration | AI governance, ethical decision making | Multiple agents embody different constitutional principles, debating to find aligned solutions |
+| **Iterated Amplification with Debate (IAD)** | Iterated Amplification + Debate & Critique | Scalable oversight, complex value learning | Amplification steps include debate phases to ensure distilled knowledge maintains alignment |
+| **Consensus-Based Tool Learning (CBTL)** | Consensus Building + Tool Use | Open-source agent ecosystems, tool discovery | Agents reach consensus on tool functionality through shared experimentation and collective reflection |
