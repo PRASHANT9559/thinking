@@ -166,5 +166,5 @@ MIT License (or your preferred license)
 
 > 🚀 Building the future of AI — one thinking system at a time.
 <p align="center">
-  <img src="assets/architecture.png" width="700"/>
+  <img src="architecture.png" width="700"/>
 </p>
