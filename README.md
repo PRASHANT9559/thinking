@@ -33,6 +33,7 @@ We aim to design systems that:
 ---
 
 ## 📁 Repository Structure
+```
 AI/
 │
 ├── thinking_patterns/
@@ -52,7 +53,7 @@ AI/
 │ ├── Memory & control systems
 │ └── Autonomous reasoning loops
 
-
+```
 ---
 
 ## 🧠 Thinking Patterns
